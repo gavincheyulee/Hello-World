@@ -1,0 +1,7 @@
+# include <iostream>
+using namespace std;
+int main()
+{
+	cout << "Hello world！I'm JiangSuhan"<< endl;
+	return 0;
+}
